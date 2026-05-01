@@ -17,9 +17,9 @@ A digital hospice for technologies that were once the darlings of LinkedIn influ
 
 We track the slow, painful decline of frameworks, languages, and tools that promised to revolutionize your workflow but instead revolutionized your anxiety. Our data-driven approach combines the precision of a coroner with the bedside manner of a Twitter thread.
 
-## Latest Technology Updates (2026-04-30)
+## Latest Technology Updates (2026-05-01)
 
-[![jQuery: 56](https://img.shields.io/badge/jQuery-56%25-yellow?style=flat-square)](https://www.isthistechdead.com/jquery) [![Node.js: 44](https://img.shields.io/badge/Node.js-44%25-green?style=flat-square)](https://www.isthistechdead.com/nodejs) [![Spring boot: 41](https://img.shields.io/badge/Spring%20boot-41%25-green?style=flat-square)](https://www.isthistechdead.com/spring) [![Phoenix Framework: 56](https://img.shields.io/badge/Phoenix%20Framework-56%25-yellow?style=flat-square)](https://www.isthistechdead.com/phoenix) [![Vue.js: 52](https://img.shields.io/badge/Vue.js-52%25-yellow?style=flat-square)](https://www.isthistechdead.com/vuejs) [![Cake PHP: 72](https://img.shields.io/badge/Cake%20PHP-72%25-orange?style=flat-square)](https://www.isthistechdead.com/cakephp) 
+[![Gatsby: 76](https://img.shields.io/badge/Gatsby-76%25-orange?style=flat-square)](https://www.isthistechdead.com/gatsbyjs) [![Xamarin: 89](https://img.shields.io/badge/Xamarin-89%25-red?style=flat-square)](https://www.isthistechdead.com/xamarin) [![laravel: 34](https://img.shields.io/badge/laravel-34%25-green?style=flat-square)](https://www.isthistechdead.com/laravel) [![Silverlight: 89](https://img.shields.io/badge/Silverlight-89%25-red?style=flat-square)](https://www.isthistechdead.com/silverlight) [![Deno: 57](https://img.shields.io/badge/Deno-57%25-yellow?style=flat-square)](https://www.isthistechdead.com/deno) [![Ruby on Rails: 54](https://img.shields.io/badge/Ruby%20on%20Rails-54%25-yellow?style=flat-square)](https://www.isthistechdead.com/rails) 
 ## Project Components
 
 This monorepo contains two main components:
