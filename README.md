@@ -17,9 +17,9 @@ A digital hospice for technologies that were once the darlings of LinkedIn influ
 
 We track the slow, painful decline of frameworks, languages, and tools that promised to revolutionize your workflow but instead revolutionized your anxiety. Our data-driven approach combines the precision of a coroner with the bedside manner of a Twitter thread.
 
-## Latest Technology Updates (2026-05-03)
+## Latest Technology Updates (2026-05-04)
 
-[![Ansible: 60](https://img.shields.io/badge/Ansible-60%25-yellow?style=flat-square)](https://www.isthistechdead.com/ansible) [![Avalonia: 55](https://img.shields.io/badge/Avalonia-55%25-yellow?style=flat-square)](https://www.isthistechdead.com/avalonia) [![Electron: 34](https://img.shields.io/badge/Electron-34%25-green?style=flat-square)](https://www.isthistechdead.com/electron) [![Express js: 69](https://img.shields.io/badge/Express%20js-69%25-yellow?style=flat-square)](https://www.isthistechdead.com/expressjs) [![Rust: 19](https://img.shields.io/badge/Rust-19%25-brightgreen?style=flat-square)](https://www.isthistechdead.com/rust) [![Tailwind: 35](https://img.shields.io/badge/Tailwind-35%25-green?style=flat-square)](https://www.isthistechdead.com/tailwind) 
+[![MySQL: 43](https://img.shields.io/badge/MySQL-43%25-green?style=flat-square)](https://www.isthistechdead.com/mysql) [![Orleans: 56](https://img.shields.io/badge/Orleans-56%25-yellow?style=flat-square)](https://www.isthistechdead.com/orleans) [![PostgreSQL: 26](https://img.shields.io/badge/PostgreSQL-26%25-brightgreen?style=flat-square)](https://www.isthistechdead.com/postgresql) [![Angular: 40](https://img.shields.io/badge/Angular-40%25-green?style=flat-square)](https://www.isthistechdead.com/angular) [![ASP.NET: 41](https://img.shields.io/badge/ASP.NET-41%25-green?style=flat-square)](https://www.isthistechdead.com/asp.net) [![Joomla! CMS: 58](https://img.shields.io/badge/Joomla!%20CMS-58%25-yellow?style=flat-square)](https://www.isthistechdead.com/joomla) 
 ## Project Components
 
 This monorepo contains two main components:
