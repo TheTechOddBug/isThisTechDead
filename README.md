@@ -17,9 +17,9 @@ A digital hospice for technologies that were once the darlings of LinkedIn influ
 
 We track the slow, painful decline of frameworks, languages, and tools that promised to revolutionize your workflow but instead revolutionized your anxiety. Our data-driven approach combines the precision of a coroner with the bedside manner of a Twitter thread.
 
-## Latest Technology Updates (2026-05-04)
+## Latest Technology Updates (2026-05-05)
 
-[![MySQL: 43](https://img.shields.io/badge/MySQL-43%25-green?style=flat-square)](https://www.isthistechdead.com/mysql) [![Orleans: 56](https://img.shields.io/badge/Orleans-56%25-yellow?style=flat-square)](https://www.isthistechdead.com/orleans) [![PostgreSQL: 26](https://img.shields.io/badge/PostgreSQL-26%25-brightgreen?style=flat-square)](https://www.isthistechdead.com/postgresql) [![Angular: 40](https://img.shields.io/badge/Angular-40%25-green?style=flat-square)](https://www.isthistechdead.com/angular) [![ASP.NET: 41](https://img.shields.io/badge/ASP.NET-41%25-green?style=flat-square)](https://www.isthistechdead.com/asp.net) [![Joomla! CMS: 58](https://img.shields.io/badge/Joomla!%20CMS-58%25-yellow?style=flat-square)](https://www.isthistechdead.com/joomla) 
+[![Solar2D: 92](https://img.shields.io/badge/Solar2D-92%25-red?style=flat-square)](https://www.isthistechdead.com/solar2d) [![django: 28](https://img.shields.io/badge/django-28%25-brightgreen?style=flat-square)](https://www.isthistechdead.com/django) [![FastAPI: 48](https://img.shields.io/badge/FastAPI-48%25-green?style=flat-square)](https://www.isthistechdead.com/fastapi) [![Capacitor: 67](https://img.shields.io/badge/Capacitor-67%25-yellow?style=flat-square)](https://www.isthistechdead.com/capacitor) [![NativeScript: 79](https://img.shields.io/badge/NativeScript-79%25-orange?style=flat-square)](https://www.isthistechdead.com/nativescript) [![Typescript: 31](https://img.shields.io/badge/Typescript-31%25-green?style=flat-square)](https://www.isthistechdead.com/typescript) 
 ## Project Components
 
 This monorepo contains two main components:
